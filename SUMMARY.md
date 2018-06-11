@@ -6,8 +6,8 @@
   * [Conexão reversa](ssh-o-poder-da-conexao/untitled.md)
   * [Tunelamento e Proxy](ssh-o-poder-da-conexao/tunelamento-e-proxy.md)
 * [Screen](screen-sua-tela-sempre-ativa.md)
-* [Docker](untitled.md)
+* [Docker](docker.md)
 * [Makefile](makefile-voce-pode-ser-feliz.md)
-* [Ansible](untitled-1.md)
-* [SRE - Site Reliability Engineering](untitled-2.md)
+* [Ansible](ansible.md)
+* [SRE - Site Reliability Engineering](sre.md)
 
